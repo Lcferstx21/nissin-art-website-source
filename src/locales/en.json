@@ -1,0 +1,429 @@
+{
+  "navbar": {
+    "about": "About Us",
+    "results": "Successful Admissions",
+    "team": "Faculty",
+    "schedule": "Curriculum",
+    "contact": "Contact",
+    "join": "Recruit",
+    "qa": "FAQ",
+    "sub_message": "Message",
+    "sub_coreAdvantages": "Core Advantages",
+    "sub_philosophy": "Philosophy",
+    "sub_resultAchievements": "Achievements",
+    "sub_interviews": "Interviews",
+    "sub_dc": "Ph.D.",
+    "sub_fa": "Fine Arts",
+    "sub_de": "Design",
+    "sub_acg": "ACG Media & Film",
+    "sub_ca": "Cultural Arts",
+    "sub_kcts": "Features",
+    "sub_sxzd": "Guidance",
+    "sub_xbkc": "Undergraduate",
+    "sub_dxykc": "Graduate"
+  },
+  "home": {
+    "contactUs": "Contact Us",
+    "welcomeMessage": {
+      "line1": "The doors of NISSIN Art Academy are open to you!",
+      "line2": "Feel free to contact us for more information"
+    }
+  },
+  "homeTeam": {
+    "title": "Faculty",
+    "subtitle": "Ph.D. | Fine Arts | Design | ACG Media & Film | Cultural Arts"
+  },
+  "homeAbout": {
+    "title": "About Nissin",
+    "subTitle": "Message | Core Advantages | Academy Philosophy",
+    "description": "Founded in 2017, Nissin Art Academy is one of Japan’s first institutions specializing in art education and advancement for international students, built on a foundation of expertise, dedication, and focus. Our core faculty team brings over 10 years of experience in supporting international students in achieving their academic goals. Education requires time and commitment, and we hope to utilize our years of experience to help each student reach their potential.",
+    "sellingPoints": [
+      "Joint professional guidance from Japanese and Chinese instructors",
+      "Comprehensive, One-Stop Support for Peace of Mind",
+      "Seamless Admissions Management Across Campuses in Japan and China",
+      "Japan’s First Art Study Abroad Institution to Create Original Educational Materials",
+      "Personalized Multi-Instructor Coaching Mode"
+    ]
+  },
+  "homeResult": {
+    "title": "Successful\nAdmissions",
+    "subTitle": "Admissions Results | Interviews",
+    "description": [
+      "Nissin Art Academy: Your first step toward your dream.",
+      "Let our proven track record guide you on your path.",
+      ""
+    ],
+    "animatedNumberSuffix": "Admissions",
+    "universities": [
+      {
+        "name": "Japan’s Top\nArt Universities\n+ Prestigious Western\nArt Schools",
+        "description": "Tokyo University of the Arts, Musashino Art University, and Tama Art University are known as the 'Big Three' of Japanese art universities, holding a similar status to China’s top three art schools."
+      },
+      {
+        "name": "Tokyo Five\nArt Universities",
+        "description": "This group, known as the 'Tokyo Five,' includes Tama Art University, Musashino Art University, Tokyo Zokei University, Joshibi University of Art and Design, and Nihon University College of Art, all located in bustling Tokyo."
+      },
+      {
+        "name": "Kansai Four\nArt Universities",
+        "description": "The 'Kansai Four' includes Kyoto University of Art and Design, Kyoto Seika University, Osaka University of Arts, and Seian University of Art and Design, situated in the scenic Kansai region."
+      },
+      {
+        "name": "Renowned National and\nPublic Universities",
+        "description": "Japan’s national and public universities are known for their rigorous standards and lower tuition, making them highly sought-after yet competitive for international students. These include institutions such as Hitotsubashi University, University of Tsukuba, Shizuoka University, and Kyoto City University of Arts."
+      },
+      {
+        "name": "Top Private Universities\nWaseda, Keio, and GMARCH",
+        "description": "Waseda University and Keio University are renowned private universities, while GMARCH refers to Gakushuin University, Meiji University, Aoyama Gakuin University, Rikkyo University, Chuo University, and Hosei University, all known for their high academic standards."
+      },
+      {
+        "name": "Top Fashion Schools\nin Japan",
+        "description": "Specialized in fashion, schools like Bunka Fashion College, Bunka Gakuen University, and BFGU are highly respected institutions in the global fashion industry."
+      }
+    ]
+  },
+  "mobileHome": {
+    "aboutUs": "About Us",
+    "results": "Successful Admissions",
+    "team": "Faculty",
+    "schedule": "Curriculum",
+    "contact": "Contact",
+    "join": "Recruit",
+    "faq": "FAQ"
+  },
+  "aboutUs": {
+    "title": "About NISSIN Art Academy",
+    "message": "Message",
+    "coreAdvantages": "Advantages",
+    "philosophy": "Mission",
+    "messageText": [
+      "Established in 2017, NISSIN Art Academy is one of Japan's first institutions dedicated to providing focused, specialized art admissions guidance for international students.",
+      "Our core teaching team has over 10 years of experience in assisting students with admissions, using our accumulated expertise to support each student’s journey toward their goals.",
+      "Since our founding, we have helped over 500 students gain acceptance to prestigious Japanese art universities. Over the past eight years, our students have grown from high school and university students into professionals, becoming integral members of their companies, distinguished designers, successful entrepreneurs, and even university lecturers.",
+      "We are honored to share in their joys and challenges, witnessing their growth along the path to fulfilling their artistic dreams. Meeting students during such pivotal times in their lives and helping shape their paths has deep meaning for us.",
+      "We cherish every encounter and extend our heartfelt thanks to those we have met and those we have yet to meet."
+    ],
+    "coreAdvantagesTitle": "Five Key Reasons to Choose NISSIN Art Academy",
+    "coreAdvantagesItems": [
+      {
+        "title1": "Joint Instruction by Japanese",
+        "title2": "and Chinese Teachers",
+        "description": "At NISSIN Art Academy, our faculty includes Japanese and Chinese instructors from top art universities in Japan, many of whom hold teaching positions at renowned art institutions. This provides students with highly professional guidance in art education."
+      },
+      {
+        "title1": "Seamless Admissions Management",
+        "title2": "Across Japan and China",
+        "description": "With campuses in Guangzhou and Tokyo, students can begin in-person courses before arriving in Japan. Upon arrival, their progress is seamlessly transferred to the Tokyo campus, allowing them to efficiently continue their studies and exam preparation."
+      },
+      {
+        "title1": "Personalized Multi-Instructor",
+        "title2": "Coaching Model",
+        "description": "NISSIN Art Academy provides customized educational support. Students can freely select instructors for specialized courses and receive guidance on essays and Japanese, ensuring comprehensive coverage for successful admissions."
+      },
+      {
+        "title1": "Comprehensive, One-Stop",
+        "title2": "Support for Peace of Mind",
+        "description": "From pre-departure to post-study support, we provide consistent, reliable assistance, offering students and their families peace of mind on their study abroad journey."
+      },
+      {
+        "title1": "Japan’s First Art Study Abroad",
+        "title2": "Institution to Create Original Textbooks",
+        "description": "Recognizing the importance of experience, we have developed original textbooks with our core teaching team, ensuring a stable foundation of high-quality education for our students."
+      }
+    ],
+    "philosophyText": [
+      "Our mission is to guide each student toward becoming an internationally-minded artist, transforming from imitation to creation, dependency to independence, passive learning to active inquiry, and local to global perspectives.",
+      "We aim to provide a platform for future art leaders with open, international perspectives and to build a global art community.",
+      "Members of this community embody Diversity, Professionalism, Excellence, Respect, and Creativity, collaborating to make meaningful contributions to the art world’s exchange and development."
+    ],
+    "philosophyValues": [
+      {
+        "title": " ",
+        "subtitle": "Diversity",
+        "description": "We value and embrace the diversity brought by different cultural backgrounds and personal qualities, encouraging every teacher and student to express their uniqueness."
+      },
+      {
+        "title": " ",
+        "subtitle": "Excellence",
+        "description": "We are committed to providing high-level education services, implementing long-term improvements to foster new ideas and reliability."
+      },
+      {
+        "title": " ",
+        "subtitle": "Creativity",
+        "description": "We see creativity as the core of art education and strive to create opportunities to foster creative talent and critical thinking."
+      },
+      {
+        "title": " ",
+        "subtitle": "Professionalism",
+        "description": "We pursue professionalism in both art and art education, demonstrating commitment and dedication in our roles."
+      },
+      {
+        "title": " ",
+        "subtitle": "Respect",
+        "description": "We respect each individual and work to create an equitable, friendly, and value-centered educational environment."
+      }
+    ]
+  },
+
+  "results": {
+    "sidebarTitle": "Admissions Results",
+    "achievements": "Admissions Results",
+    "interviews": "Admissions Interviews",
+    "introText1": "NISSIN Art Academy: the first step toward your dream destination.",
+    "introText2": "With solid foundational teaching and personalized guidance, we have helped countless students enter prestigious Japanese universities.",
+    "introText3": "Using our results as a guide, we help pave your way.",
+    "totalAchievements": "Achievements",
+    "topArtUniversities": "Top 3 Art Universities\nin Japan\n+ Elite Schools Worldwide",
+    "topArtUniversitiesDesc": "Tokyo University of the Arts, Musashino Art University, and Tama Art University are known as the ‘Top 3 Art Universities’ in Japan, holding a comparable status to China’s top three art institutions.",
+    "tokyoArtUniversities": "Tokyo’s Top 5\nArt Universities",
+    "tokyoArtUniversitiesDesc": "The five universities, including Tama Art University, Musashino Art University, Tokyo Zokei University, Joshibi University of Art and Design, and Nihon University College of Art, are collectively known as 'Tokyo’s Top 5.'",
+    "kansaiArtUniversities": "Kansai’s Top 4\nArt Universities",
+    "kansaiArtUniversitiesDesc": "Located in scenic Kansai, Kyoto University of Art and Design, Kyoto Seika University, Osaka University of Arts, and Seian University of Art and Design are known as 'Kansai’s Top 4.'",
+    "nationalPublicUniversities": "Famous National and\nPublic Universities",
+    "nationalPublicUniversitiesDesc": "Japan’s national and public universities are renowned for their rigorous standards and affordable tuition. Examples include Hitotsubashi University, University of Tsukuba, Shizuoka University, and Kyoto City University of Arts.",
+    "prestigiousPrivateUniversities": "Waseda, Keio + GMARCH\nRenowned Japanese\nPrivate Universities",
+    "prestigiousPrivateUniversitiesDesc": "Waseda and Keio refer to the prestigious Waseda University and Keio University, while GMARCH includes Rikkyo, Aoyama Gakuin, Hosei, Chuo, Meiji, and Gakushuin Universities.",
+    "fashionUniversities": "Fashion Schools\nin the Bunka Series",
+    "fashionUniversitiesDesc": "Specializing in fashion, schools such as Bunka Fashion College, Bunka Gakuen University, and BFGU are highly regarded worldwide in the field of fashion.",
+    "interviewsTitle": "Admissions Interviews",
+    "interviewsIntro": "For over eight years, we have watched our students soar. Since our founding, we have helped over 500 students achieve admissions to top art universities across Japan. This is the starting point for greater achievements.",
+    "play": "Click to Play",
+    "close": "Close"
+  },
+  "join": {
+    "welcomeMessage": "Welcome to join us,",
+    "instruction": "Fill out the job application form, or send your resume and related documents to wingphoenix@hotmail.co.jp.",
+    "downloadLinkText": "Download Job Posting",
+    "downloadFileName": "nissin job posting.pdf"
+  },
+  "team": {
+    "title": "Faculty",
+    "description": "Established in 2017, NISSIN Art Academy is dedicated to providing high-quality, comprehensive support for students aspiring to pursue art studies in Japan. With a focus on professionalism, dedication, and expertise, our core teaching team brings over a decade of experience in guiding international students on their journey to top art schools. We believe that quality education requires time and experience, and we aim to use our years of expertise to help each student reach further and achieve their artistic dreams.",
+    "sections": {
+      "doctor": "Ph.D.",
+      "fineArts": "Fine Arts",
+      "design": "Design",
+      "acg": "ACG&Film",
+      "culturalArts": "CulturalArts"
+    },
+    "categoryTitle": {
+      "doctor": "Ph.D.",
+      "fineArts": "Fine Arts",
+      "design": "Design",
+      "acg": "ACG&Film",
+      "culturalArts": "Cultural Arts"
+    }
+  },
+  "schedule": {
+    "pageTitle": "Curriculum",
+    "TitleText": "At NISSIN Art Academy, we provide a comprehensive and well-structured curriculum delivered by a highly experienced teaching team dedicated to offering expert artistic guidance. We also offer specialized Japanese language courses tailored for university and graduate school entrance exams.\n student receives personalized instruction designed to align with their academic goals, major, and skill level.\n Our assistant instructors, hailing from Japan's top art universities, facilitate seamless communication between students and lecturers. Additionally, we arrange professional Japanese interview coaches to conduct mock interview training, ensuring students are fully prepared for their entrance exams.",
+    "kcts": {
+      "sectionTitle": "Features",
+      "studentOriented": {
+        "title": "Student-centered Teaching",
+        "description": "We prioritize one-on-one communication between teachers and students, ensuring that we fully understand each student's unique characteristics, strengths, and abilities, as well as their specific admission requirements. This enables us to create tailored academic pathways and provide personalized support for each student."
+      },
+      "taskTeaching": {
+        "title": "Task-based Learning",
+        "description": "We tailor assignments and teaching programs based on each student's individual development direction, emphasizing the importance of improving their professional skills through practical experience in the field of art."
+      },
+      "practiceMode": {
+        "title": "Extended Training",
+        "description": "Our training focuses on reinforcing important knowledge points and core skills through repeated and advanced practice, enabling students to efficiently enhance their professional abilities in a short amount of time."
+      },
+      "coreSkills": {
+        "title": "Skill Development",
+        "description": "We strive to help our students discover and cultivate their own potential, talents, and strengths while reinforcing the core skills necessary for admission to top art institutions."
+      },
+      "immersiveSimulation": {
+        "title": "Simulation",
+        "description": "Through instruction from highly qualified Japanese teachers, we create an authentic classroom atmosphere akin to that of Japan's top art universities and graduate schools. This enables students to understand and master the Japanese artistic thinking process, laying a solid foundation for successful admission to premier art institutions in Japan."
+      }
+    },
+    "sxzd": {
+      "sectionTitle": "Entrance Guidance",
+      "fineArt": {
+        "title": "Fine Art",
+        "description": "Japanese Painting and Restoration｜Printmaking｜Ceramics｜Sculpture｜Oil Painting｜Advanced Art"
+      },
+      "design": {
+        "title": "Design",
+        "description": "Graphic Design｜Visual Communication｜Product Design｜Space Performance｜Textiles｜Environmental Design｜Architecture｜Fashion Design｜Branding｜Stage Art"
+      },
+      "digitalMedia": {
+        "title": "Digital Media",
+        "description": "Animation｜Photography｜Film｜ACG｜Illustration｜Picture Book｜Information Design"
+      },
+      "literature": {
+        "title": "Literature",
+        "description": "Education｜Art Education｜Cultural Arts｜Art History｜Creative Conception｜KMD｜GAP"
+      }
+    },
+    "xbkc": {
+      "sectionTitle": "Undergraduate Programs",
+      "drawingCourse": {
+        "title": "Drawing Course",
+        "subtitle": "Drawing course",
+        "details": ["Sketch of hands", "Sketch of still objects"],
+        "description": "Japanese art universities have significantly different requirements for students’ sketching skills compared to those in other countries. Unlike in other countries, hand sketching and still life sketching are more frequently featured in the exam topics across various schools. Our sketching course will provide students with a detailed interpretation of the structure and expression of hand bones and muscles, analysis of composition, and the techniques to differentiate the textures of various objects. Through learning and training in Japan's distinctive sketching methods, we aim to strengthen students' foundational drawing skills and enhance their observational and rendering abilities regarding still life. This will enable students to quickly grasp the scoring key points of Japanese art universities, allowing them to achieve the best possible expression within the limited exam time."
+      },
+      "visualExperimentation": {
+        "title": "Visual Experimentation",
+        "subtitle": "Visual Experimentation",
+        "details": ["Basic Training", "Targeted Practice"],
+        "description": "Visual Experimentation is a unique examination in the Image Arts and Science department at Musashino Art University. In this test, candidates use the clues provided in the exam prompt, such as specific words or phrases, to create a combination of text and visuals based on their own imaginative associations of events and scenes. The purpose of this examination is to assess students' imagination, their ability to convey situations, and their skill in integrating text and visual representation."
+      },
+      "designCourse": {
+        "title": "Design Course",
+        "subtitle": "Design course",
+        "details": [
+          "Color Composition",
+          "Graphic Composition",
+          "Three-Dimensional Perspective"
+        ],
+        "description": "Our Design Course, based on the requirements of Japanese art universities, aims to cultivate foundational knowledge in color, layout, and three-dimensional composition, utilizing traditional Japanese techniques. Tailored to each student’s desired specialization, whether in Graphic Design, Industrial Design, Architecture, or Media Studies, we offer comprehensive and skill-enhancing guidance."
+      },
+      "interviewAndEssay": {
+        "title": "Guide for Interview & Essay Writing",
+        "subtitle": "Interview & Essay Writing",
+        "description": "Nissin offers specialized courses for interviews and essay writing. With the guidance of experienced teachers, students will learn professional Japanese vocabulary and participate in multiple simulation exercises to enhance their goal-oriented mindset. The program also includes training in flexible response techniques and interview etiquette to rapidly improve students' interview skills. Additionally, professional instructors will focus on developing students' thinking processes, analytical abilities, knowledge scope, and originality, enabling them to quickly enhance their essay writing skills in accordance with the requirements of Japanese art examinations."
+      },
+      "japaneseForArtMajors": {
+        "title": "Art Specialized Japanese Training",
+        "subtitle": "Japanese Language For Art Majors",
+        "description": "For students aspiring to apply to top art institutions in Japan, improving their artistic skills is only part of the challenge. The Examination for Japanese University Admission for International Students (EJU) and the Japanese Language Proficiency Test (JLPT) are also significant hurdles. To help students achieve their artistic dreams and attain ideal scores in Japanese exams, we offer specialized Japanese language tutoring focused on exam preparation, effectively enhancing their language abilities and helping them overcome linguistic challenges."
+      }
+    },
+    "dxykc": {
+      "sectionTitle": "Graduate Programs",
+      "researchPlan": {
+        "title": "Research Plan",
+        "subtitle": " ",
+        "description": "The academy will arrange for experienced instructors to collect and analyze information from various universities, providing guidance on writing research proposals and sharing valuable writing experiences from predecessors. We will highlight efficient writing techniques and offer tailored professional advice based on each student's aspirations and abilities. This will help establish a clear direction for their research proposals, enabling students to produce high-quality, professional research plans quickly and effectively, so they can transition into exam preparation as soon as possible."
+      },
+      "portfolioCreation": {
+        "title": "Portfolio Creation Course",
+        "subtitle": " ",
+        "description": "Nissin provides professional guidance for students in creating their portfolios. This includes advice on the order of works, presentation methods, typesetting and binding, as well as writing Japanese descriptions for each piece. Tailored to the specific styles and requirements of different schools and majors, we help students craft portfolios that stand out and appeal to professors."
+      },
+      "portfolioPublishing": {
+        "title": "Portfolio Publishing Course",
+        "subtitle": " ",
+        "description": "Nissin fully supports students in the creation and presentation of their works, offering comprehensive and multi-level guidance and assistance. The academy organizes visits to various art exhibitions and art universities, and our experienced instructors provide advice and support for the production of different types of works."
+      },
+      "interviewGuidance": {
+        "title": "Guide for Interviews",
+        "subtitle": " ",
+        "description": "Through the professional guidance of experienced instructors, Nissin teaches specialized Japanese vocabulary and conducts multiple mock interview practices to enhance students' goal-oriented awareness. We also provide flexible response techniques to improve students' interview skills in a short time."
+      },
+      "japaneseForArtMajors": {
+        "title": "Japanese Language For Art Majors",
+        "subtitle": " ",
+        "description": "For students aspiring to apply to top art institutions in Japan, improving their artistic skills is only part of the challenge. The Examination for Japanese University Admission for International Students (EJU) and the Japanese Language Proficiency Test (JLPT) are also significant hurdles. To help students achieve their artistic dreams and attain ideal scores in Japanese exams, we offer specialized Japanese language tutoring focused on exam preparation, effectively enhancing their language abilities and helping them overcome linguistic challenges."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "guangzhouCampus": "Guangzhou Campus",
+    "tokyoCampus": "Tokyo Campus",
+    "detailedMap": "Detailed Map",
+    "address": "Address",
+    "tel": "Tel",
+    "qq": "QQ",
+    "wechat": "WeChat",
+    "transportation": "Transportation",
+    "guangzhouAddress": "Room 1802&1803, Building B, Victoria Plaza, No. 103-1 Tiyu Xi Road, Tianhe District, Guangzhou",
+    "tokyoAddress": "5th floor, 3-25-2 Sugamo, Toshima-ku, Tokyo 170-0002 A.Y Building",
+    "guangzhouTransport": {
+      "1": "Please take Guangzhou Metro Line 1 or Line 3 to Tiyu Xilu Station and use Exit E.",
+      "2": "After exiting, enter the 'Tianhe Yiyicheng' area and walk straight for approximately 600 meters. Follow the signs towards the 'Book Center' and take the escalator at Exit 9 to reach the surface.",
+      "3": "After reaching the surface, proceed towards Victoria Plaza. Pass 'Uniqlo' and continue straight for about 150 meters to reach Office Tower B. NISSIN Art Academy is located here. Please contact us upon arrival."
+    },
+    "tokyoTransport": {
+      "1": "3 min from JR Yamanote Line Sugamo Station",
+      "2": "3 min walk from Mita Line Sugamo Station"
+    },
+    "booking": "Counseling Appointment with Professional Advisor (Free)",
+    "bookingMobile": "Appointment for Consultation"
+  },
+
+  "form": {
+    "name": "Name",
+    "gender": "Gender",
+    "phone": "Phone Number",
+    "email": "Email",
+    "address": "Address",
+    "languageSchool": "Language School Attended",
+    "School": "Domestic University / Professor's Name",
+    "goal": "Admission Goal",
+    "targetSchool": "Target Universities (select multiple)",
+    "majorDirection": "Desired Field of Study",
+    "interviewDate": "Preferred Interview Date",
+    "howDidYouKnow1": "How Did You Learn About",
+    "howDidYouKnow2": "Nissin Art Academy?",
+    "otherKnow": "Other",
+    "submit": "Submit Appointment Details",
+    "genderOptions": { "male": "Male", "female": "Female" },
+    "goalOptions": {
+      "university": "University",
+      "graduateSchool": "Graduate School"
+    },
+    "targetSchoolOptions": [
+      "Tokyo University of the Arts",
+      "Tama Art University",
+      "Musashino Art University",
+      "Joshibi University of Art and Design",
+      "Nihon University",
+      "Tokyo Zokei University",
+      "Kyoto Seika University",
+      "Osaka University of Arts"
+    ],
+    "majorDirectionOptions": [
+      "Graphic Design",
+      "Industrial Design",
+      "Environmental Design",
+      "Multimedia Design",
+      "Fashion Design",
+      "Animation Design",
+      "Game Design",
+      "Fine Arts"
+    ],
+    "howDidYouKnowOptions": [
+      "Friend/Peer Recommendation",
+      "Teacher Recommendation",
+      "Internet Search",
+      "Distributed Brochure"
+    ],
+    "errors": {
+      "name": "Name is required",
+      "gender": "Please select a gender",
+      "phone": "Phone number is required",
+      "email": "Email is required",
+      "goal": "Please select an admission goal",
+      "targetSchool": "Please select target universities",
+      "majorDirection": "Please select a desired field of study",
+      "interviewDate": "Please select a preferred interview date",
+      "howDidYouKnow": "Please select a source of information",
+      "phoneInvalid": "Please enter a valid phone number",
+      "emailInvalid": "Please enter a valid email address",
+      "missingInfo": "Missing information, please correct and resubmit"
+    },
+    "submitSuccess": "Submission successful! Thank you for your inquiry. We will respond shortly."
+  },
+  "qa": {
+    "frzb": "Preparation for Studying in Japan",
+    "xxxzy": "Choosing Schools and Majors",
+    "xbdxy": "Undergraduate and Graduate ",
+    "kxyq": "Exam Requirements"
+  },
+  "pageBottom": {
+    "backToTop": "Back to Top",
+    "followUs": "Follow Us",
+    "tokyoCampus": "Tokyo Campus",
+    "tokyoAddress": "5th floor, 3-25-2 Sugamo, Toshima-ku, Tokyo 170-0002 A.Y Building",
+    "guangzhouCampus": "Guangzhou Campus",
+    "guangzhouAddress": "Room 1802&1803, Building B, Victoria Plaza, No. 103-1 Tiyu Xi Road, Tianhe District, Guangzhou",
+    "copyright": "Copyright NISSINACADEMY All Rights Reserved."
+  },
+  "currentLanguage": "EN"
+}
