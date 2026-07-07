@@ -1,10 +1,10 @@
-# Nissin Art Website Source Code / 日進美術 公式サイト ソースコード
+# Nissin Art Academy Website Source Code / 日進美術学院 公式サイト ソースコード
 
 Live site / 公開サイト: [https://nissinacademy.jp/](https://nissinacademy.jp/)
 
 ## 日本語
 
-日進美術の公式サイトのソースコードです。学校紹介、コース情報、入学案内、合格実績、講師紹介、FAQ、お問い合わせ導線を含む、多言語対応のレスポンシブ Web サイトとして制作しました。
+日進美術学院（Nissin Art Academy）の公式サイトのソースコードです。留学生向け美術塾として、学校紹介、コース情報、入学案内、合格実績、講師紹介、FAQ、お問い合わせ導線を含む、多言語対応のレスポンシブ Web サイトとして制作しました。
 
 本プロジェクトではプロジェクト責任者として、関係者との全体的なコミュニケーションと進行管理を担当しました。また、サイト構成・ビジュアル・インタラクション設計にも参加し、フロントエンド開発、公開環境へのデプロイ、ローンチ、公開後の保守までを独立して担当しました。
 
@@ -70,7 +70,7 @@ npm run build
 
 ## English
 
-Source code for the official website of Nissin Art, built as a responsive multilingual web experience for presenting the school, courses, admissions information, student results, teachers, FAQs, and contact flow.
+Source code for the official website of Nissin Art Academy, an art prep school for international students. The site was built as a responsive multilingual web experience for presenting the school, courses, admissions information, student results, teachers, FAQs, and contact flow.
 
 I served as the project lead for this website. My responsibilities covered overall communication and coordination with stakeholders, participation in the visual and interaction design process, and the independent implementation, production deployment, launch, and ongoing maintenance of the site.
 
@@ -133,4 +133,3 @@ npm run build
 ### Portfolio Note
 
 This repository is prepared as a portfolio source-code version. Server deployment scripts, environment files, build output, dependency folders, and machine-local cache files are intentionally excluded from the public repository.
-
